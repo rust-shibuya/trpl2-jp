@@ -1,0 +1,6 @@
+[package]
+name = "the_twelve_days_of_xmas"
+version = "0.1.0"
+authors = ["MATSUBARA Nobutada <t12307043@gunma-u.ac.jp>"]
+
+[dependencies]
